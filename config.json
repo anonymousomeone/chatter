@@ -1,0 +1,11 @@
+{
+    "channelId": "825145218130509854",
+    "channelIds": [
+        "825145218130509854",
+    ],
+    "aiModel": "dolphin-llama3",
+    "cooldownTime": 3,
+    "ops": [
+        "527196921513902090"
+    ]
+}
