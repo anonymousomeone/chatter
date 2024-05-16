@@ -8,8 +8,11 @@ export class Client2 extends Client {
 		});
 
 		this.config = config;
-        this.systemMessage = "";
-        this.messageHistory = [];
-		this.messageHistories = new Collection();
+		this.chattingChannels = new Collection();
+		this.commands = new Collection();
+	}
+
+	something() {
+		
 	}
 };

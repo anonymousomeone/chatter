@@ -1,0 +1,9 @@
+{
+    "tools": [
+    {
+      "name": "directly_answer",
+      "description": "Calls a standard (un-augmented) AI chatbot to generate a response given the conversation history",
+      "parameter_definitions": {}
+    }
+    ]
+}
