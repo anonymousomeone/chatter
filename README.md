@@ -12,3 +12,11 @@ after its done you can run
 ```shell
 node index.js
 ```
+** dont forget to make a token.json!!!
+
+format:
+```shell
+{
+    "token": "[your token]"
+}
+```
